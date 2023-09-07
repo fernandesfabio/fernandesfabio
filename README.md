@@ -4,16 +4,10 @@
 <br><br><br><br>
 
 
-<div  align="center" style="margin-bottom:100px">
- 
- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fernandesfabio&theme=radical&hide_border=false&include_all_commits=false&count_private=fals"/>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesfabio&theme=radical&hide_border=false" />
-  
-</div>
-<br>
-<div  align="center" style="margin-bottom:100px">
- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesfabio&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=fernandesfabio&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fernandesfabio&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesfabio&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## My Skills
 
